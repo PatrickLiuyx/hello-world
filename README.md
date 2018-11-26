@@ -7,7 +7,7 @@ print('hello world')
 
 #Unix Command Line
 ```console
-yliu@pat:$ echo hello world
+yliu@pat:echo hello world
 ```
 
 ```console
