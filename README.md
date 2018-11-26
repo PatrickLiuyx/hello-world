@@ -5,5 +5,10 @@ print('hello world')
 ```
 <br>
 ```console
-yliu@pat: $echo hello world #Unix Command Line
+yliu@pat: $echo hello world
+```
+
+```console
+foo@bar:~$ whoami
+foo
 ```
