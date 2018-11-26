@@ -4,6 +4,6 @@
 print('hello world') 
 ```
 <br>
-```ruby
-echo hello world #Unix Command Line
+```console
+yliu@pat: $echo hello world #Unix Command Line
 ```
