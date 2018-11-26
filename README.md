@@ -4,6 +4,6 @@
 print('hello world') 
 ```
 <br>
-```
+```shell
 echo hello world #Unix Command Line
 ```
